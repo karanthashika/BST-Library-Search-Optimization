@@ -228,9 +228,6 @@ Then double-click `compile_and_run.bat` to compile and run.
 ### Issue: Class not found after compilation
 **Solution**: Make sure you're running from the `src` folder and compiled with `-d .` option
 
----
-
-## How to Explain in Viva
 
 ### Key Points:
 1. **BST Advantage**: O(log n) search vs O(n) linear search
@@ -264,5 +261,3 @@ Then double-click `compile_and_run.bat` to compile and run.
 - Easy to extend with more features (like persistence, user authentication)
 
 ---
-
-Good luck with your viva! 🎓
